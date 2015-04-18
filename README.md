@@ -17,7 +17,7 @@ blindness types:
 EXAMPLE
 -------
 
-![Results of color blindness emulation provided by `filters.svg`][test-results.png]
+![Results of color blindness emulation provided by `filters.svg`][1]
 
 This preview is the result of applying filters against `test.jpg`.
 
@@ -38,4 +38,4 @@ LICENSE
 CC0: http://creativecommons.org/publicdomain/zero/1.0/
 
 
-[1]: http://caniuse.com/#feat=css-filters
+[1]: test-results.png
