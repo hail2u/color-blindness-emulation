@@ -1,5 +1,5 @@
-Color Blindness Emulator
-========================
+Color Blindness Emulation
+=========================
 
 This SVG file (`filters.svg`) contains filters that emulate following color
 blindness types:
