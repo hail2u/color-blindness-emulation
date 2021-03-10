@@ -35,7 +35,7 @@ You can use this SVG file from CSS `filter` property:
 LICENSE
 -------
 
-CC0: http://creativecommons.org/publicdomain/zero/1.0/
+CC0
 
 
 [1]: test-results.png
